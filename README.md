@@ -8,12 +8,19 @@ Full-stack engineer, backend at heart. I like building systems that stay fast an
 
 #### 🧰 Skills
 
-- **Languages:** Go · TypeScript · JavaScript · Python · C++
-- **Backend & UI:** Node.js · Express · Fiber · chi · React · Tailwind · Socket.IO
-- **Streaming & queues:** Kafka · Redpanda · NATS · Pub/Sub · BullMQ · Protobuf
-- **Databases:** PostgreSQL · ClickHouse · MongoDB · Redis · Pebble · Prisma
-- **Infra & observability:** Kubernetes · KEDA · Docker · AWS · Nginx · Prometheus · Grafana
-- **Auth & payments:** JWT · OAuth 2.0 · Cognito · RBAC · signed webhooks · Razorpay · Stripe
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp" alt="Go, TypeScript, JavaScript, Python, C++" />
+
+**Backend & UI**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind" alt="Node.js, Express, React, Tailwind" />
+
+**Data & streaming**<br>
+<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb,prisma" alt="Kafka, Redis, PostgreSQL, MongoDB, Prisma" />
+
+**Infra & tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,prometheus,grafana,linux,git,postman" alt="Docker, Kubernetes, AWS, GCP, Nginx, Prometheus, Grafana, Linux, Git, Postman" />
+
+**Also:** Redpanda · NATS · ClickHouse · Socket.IO · BullMQ · Pebble · Fiber · chi · Protobuf · JWT · OAuth 2.0 · RBAC · Razorpay · Stripe
 
 #### 💡 What I enjoy
 
