@@ -1,18 +1,43 @@
-<h1 align="center">Hi 👋, I'm Prabhkirat Singh</h1>
-<h3 align="center">A passionate developer, forever eager to delve into the latest advancements in technology.</h3>
+### Hi, I'm Prabhkirat 👋
 
+**Software Engineer at [Sechpoint](https://sechpoint.com), Bengaluru.** Backend at heart. I build streaming and data systems that keep working under load.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="prabhwarrior" /> </p>
+- ⚙️ **Now:** telecom-scale streaming: a crash-safe quota runtime on Redpanda + Pebble, and a plugin ETL engine (Kafka / NATS → ClickHouse) on Kubernetes
+- 📈 **Numbers I'm proud of:** 329k records/s quota runtime · 1M records in 6.5s into ClickHouse · API latency 7s → 480ms
+- 🤝 **Open to:** backend, platform and full-stack roles
+- 📫 **Reach me:** [prabhkiratsingh66@gmail.com](mailto:prabhkiratsingh66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prabhkirat-singh-5222701a2/) · [Portfolio](https://prabhwarrior.github.io)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+---
 
-- 👯 I’m looking to collaborate on **Web Development Project**
+#### 🧰 Stack
 
-- 📫 How to reach me prabhkiratsingh65@gmail.com
+- **Languages:** Go · TypeScript · JavaScript · Python · C++
+- **Services & UI:** Node.js · Express · Fiber · chi · React · Tailwind · Socket.IO
+- **Streaming:** Kafka · Redpanda · NATS · Pub/Sub · BullMQ · Protobuf
+- **Data:** PostgreSQL · ClickHouse · MongoDB · Redis · Pebble · Prisma
+- **Infra:** Kubernetes · KEDA · Docker · AWS · Nginx · Prometheus · Grafana
+- **Auth & payments:** JWT · OAuth 2.0 · Cognito · RBAC · signed webhooks · Razorpay · Stripe
 
-- 💬 Ask me about **C++, Node.js, React, Data Structures & Algorithms**
+#### 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| When | Role | What I did |
+|---|---|---|
+| Apr 2026 – now | **Software Engineer**, Sechpoint | Quota runtime (Redpanda, Pebble, outbox) and ETL engine (Kafka/NATS → ClickHouse, backpressure, DLQ) on Kubernetes + KEDA |
+| Nov 2025 – Mar 2026 | **Solution Engineer**, GammaStack | Casino and wallet microservices: REST + Socket.IO, Redis + BullMQ, provider webhooks (Hub88, FastGaming, Tequity) |
+| Jan 2024 – Oct 2025 | **Associate SE**, Wits Innovation Lab | ONDC buyer app ([Himira](https://himira.co.in/)): N+1 fix 7s → 480ms, hierarchical RBAC, Razorpay, encrypted KYC; led a team of 4 |
+| Oct 2022 – Jun 2024 | **Tech Team Lead**, T&P Cell, GNDEC | React components and MySQL tuning (−20% load time); started as SDE intern |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhwarrior&show_icons=true&locale=en" alt="prabhwarrior" /></p>
+#### 🔭 Selected work
+
+| Project | What it is | Built with |
+|---|---|---|
+| **Quota runtime** | Partitioned stream processor that rebuilt a telecom quota platform: exactly-once state, crash recovery, 329k records/s across 64 partitions | Go · Redpanda · Pebble · Kubernetes |
+| **Multi-pipeline ETL engine** | Self-built Fluentd alternative: YAML pipelines from any source to any sink, PII masking, backpressure, DLQ; 1M records in 6.5s | Kafka · NATS · ClickHouse · KEDA |
+| [**Himira · ONDC**](https://himira.co.in/) | Buyer and seller microservices on India's government-backed ONDC network, event-driven on Pub/Sub | Node.js · Pub/Sub · MongoDB · PostgreSQL |
+| [**JeetaBet**](https://www.jeetabet.com/) | Backend for a high-scale sportsbook and casino platform: live odds, bets and payments | Node.js · Redis · Socket.IO · BullMQ |
+| [**Plan It**](https://planit.thewitslab.com/) | Jira-style task manager with real-time collaboration and RBAC | Node.js · MongoDB · WebSockets |
+| [**T&P Portal**](https://www.tnpgndec.com/) | Placement portal for GNDEC students | React · Laravel · MySQL |
+
+More on my [portfolio →](https://prabhwarrior.github.io/projects.html)
+
+🎓 B.Tech IT, GNDEC Ludhiana (2024) · CGPA 8.7 · [LeetCode](https://leetcode.com/prabhkiratsingh65/)
